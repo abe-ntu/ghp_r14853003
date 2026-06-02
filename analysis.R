@@ -1,6 +1,3 @@
-library (readr)
-library(dplyr)
-
 # Import dataset
 dengue <- read.csv("dengue_assignment.csv", header = TRUE)
 
